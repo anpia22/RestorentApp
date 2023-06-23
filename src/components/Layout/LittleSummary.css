@@ -1,0 +1,15 @@
+.summary{
+    width: 50%;
+    margin-inline: auto;
+    position: relative;
+    bottom: 150px;
+    background: #3f3f3f;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.684);
+    border-radius: 5px;
+    color: #fff;
+    padding:3px 10px;
+    text-align: center;
+}
+.summary h2{
+    font-size: 30px;
+}
