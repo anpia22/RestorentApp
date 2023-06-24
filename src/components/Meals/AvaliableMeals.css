@@ -8,11 +8,11 @@
   .meals ul {
     list-style: none;
     margin: 0;
-    padding: 1em;
-    background: #fff;
-    border-radius: 10px;
+    padding: 0;
+    /* background: #fff;
+    border-radius: 10px; */
   }
-  ul li{
+  /* ul li{
     border-bottom: 1px solid rgba(128, 128, 128, 0.497);
     margin: 10px;
     padding: 10px;
@@ -28,7 +28,7 @@
     display: block;
     color: brown;
     font-weight: 600;
-  }
+  } */
   
   @keyframes meals-appear {
     from {
